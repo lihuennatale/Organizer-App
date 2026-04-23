@@ -39,6 +39,6 @@ Follow these steps to run the application on your local machine:
 * `Organizer App.ipynb`: The main file containing the interface logic, main loop, and component rendering.
 * `README.md`: Project documentation.
 
-## 👩‍💻 Author
+##  Author
 
-**Lihuén Natale** Physics and Astronomy Student at **Universidad Nacional de La Plata (UNLP)**.
+**Lihuén Natale** Astronomy Student at **Universidad Nacional de La Plata (UNLP)**.
